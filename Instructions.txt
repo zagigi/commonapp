@@ -1,0 +1,3 @@
+UV_sensor.ino is the code for the UV project.
+heat.ino is the code for the HeatMapping project[including the pcb code].
+soil.ino is the code for the CAC project.
